@@ -15,7 +15,7 @@ Dengan adanya website bengkel, pelanggan dapat dengan mudah mencari informasi te
 ```bash
 git clone https://github.com/nama-akun/nama-repo.git
 
-Ganti "nama-akun" dan "nama-repo" dengan nama akun dan nama repositori di GitHub yang ingin Anda unduh.
+Ganti "nama-akun" dan "nama-repo" dengan nama akun dan nama repositori di GitHub yang ingin Anda unduh. Dan pastikan php kalian sudah versi 8.1.
 ```
 
 ### 2. Setelah selesai mengunduh kode, navigasikan ke direktori tempat kode tersebut disimpan dengan perintah "cd".
